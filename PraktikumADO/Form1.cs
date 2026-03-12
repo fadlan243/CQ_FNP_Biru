@@ -20,9 +20,7 @@ namespace PraktikumADO
             InitializeComponent();
         }
 
-        private void Koneksi()
-        {
-            conn = new SqlConnection("Data Source=FADLANNASRIZAL\\FADLAN;Initial Catalog=DBAkademikADO;Integrated Security=True");
-        }
-
         
+    }
+}
+
